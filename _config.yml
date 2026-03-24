@@ -11,4 +11,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+#Enable excerpts on homepage
 show_excerpts: true
+
+# Optional: This makes the "read more" link appear
+minima:
+  show_excerpts: true
