@@ -2,14 +2,11 @@ title: Masters Quant Lab
 description: Forensic Model Validation & Topological Research.
 theme: minima
 
-# The Fail-Safe Script
-header_pages:
-  - about.md
-
-# This block forces the theme to include the MathJax CDN
-common-ext:
-  - head-custom.html
-
-# Manual MathJax Injection
+# Markdown settings
 kramdown:
   math_engine: mathjax
+
+# Exclude these from the build to be safe
+exclude:
+  - Gemfile
+  - Gemfile.lock
