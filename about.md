@@ -4,11 +4,11 @@ title: About the Lab
 permalink: /about/
 ---
 
-### Masters Quant Research (MQR)
+### MQF Research
 
-**Masters Quant Research (MQR)** is an interdisciplinary research initiative led by Craig Masters, Ph.D. The purpose is to apply the formalisms of theoretical physics to the modeling of complex financial systems. 
+**MQF Research** is an interdisciplinary research initiative led by Craig Masters, Ph.D. The purpose is to apply the formalisms of theoretical physics to the modeling of complex financial systems. 
 
-As an associate professor of physics, Dr. Masters founded MQR to explore the interface between theoretical physics and quantitative finance. This laboratory serves as a scholarly hub for investigating the physics of risk.
+As an associate professor of physics, Dr. Masters founded MQF Research to explore the interface between theoretical physics and quantitative finance. This laboratory serves as a scholarly hub for investigating the physics of risk.
 
 ### Primary Research Pillars
 
@@ -17,4 +17,4 @@ As an associate professor of physics, Dr. Masters founded MQR to explore the int
 * **Eikonal Market Theory:** Investigating price impact and liquidity through the lens of field equations and nonlinear dynamics.
 
 ### Scholarly Foundation
-The work at MQR is grounded in Dr. Masters' background in mathematical physics. By aligning theoretical research with institutional standards like SR 11-7, the aim is to advance the state of model risk analysis through rigorous, first-principles validation.
+The work at MQF Research is grounded in Dr. Masters' background in mathematical physics. By aligning theoretical research with institutional standards like SR 11-7, the aim is to advance the state of model risk analysis through rigorous, first-principles validation.
