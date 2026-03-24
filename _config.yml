@@ -10,3 +10,5 @@ kramdown:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+show_excerpts: true
