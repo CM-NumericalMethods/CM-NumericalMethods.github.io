@@ -17,4 +17,4 @@ As an associate professor of physics, Dr. Masters founded MQR to explore the int
 * **Eikonal Market Theory:** Investigating price impact and liquidity through the lens of field equations and nonlinear dynamics.
 
 ### Scholarly Foundation
-The work at MQR is grounded in Dr. Masters' background in mathematical physics (Ph.D., UMKC). By aligning theoretical research with institutional standards like SR 11-7, the aim is to advance the state of model risk analysis through rigorous, first-principles validation.
+The work at MQR is grounded in Dr. Masters' background in mathematical physics. By aligning theoretical research with institutional standards like SR 11-7, the aim is to advance the state of model risk analysis through rigorous, first-principles validation.
